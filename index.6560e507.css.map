@@ -1,1 +1,0 @@
-{"mappings":"AACE","sources":["src/styles/home.scss"],"sourcesContent":["body {\n  h2 {\n    font-size: 3rem;\n    color: purple;\n    font-family: 'Courier New', Courier, monospace;\n  }\n}\n"],"names":[],"version":3,"file":"index.6560e507.css.map","sourceRoot":"/__parcel_source_root/"}
